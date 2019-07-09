@@ -1,0 +1,1924 @@
+Processname: System Idle Process
+    PID: 0
+    CPU: 82.03%
+    Memory: 0.00 %
+    Connection IP: 13.35.198.104
+    Connection Port: 443
+Processname: System
+    PID: 4
+    CPU: 0.78%
+    Memory: 0.05 %
+Processname: winlogon.exe
+    PID: 8
+    CPU: 0.00%
+    Memory: 0.19 %
+Processname: Registry
+    PID: 120
+    CPU: 0.00%
+    Memory: 0.39 %
+Processname: ShellExperienceHost.exe
+    PID: 144
+    CPU: 0.00%
+    Memory: 0.72 %
+Processname: AdobeIPCBroker.exe
+    PID: 216
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: smss.exe
+    PID: 428
+    CPU: 0.00%
+    Memory: 0.01 %
+Processname: csrss.exe
+    PID: 620
+    CPU: 0.00%
+    Memory: 0.05 %
+Processname: fontdrvhost.exe
+    PID: 624
+    CPU: 0.00%
+    Memory: 0.34 %
+Processname: svchost.exe
+    PID: 724
+    CPU: 0.00%
+    Memory: 0.18 %
+Processname: wininit.exe
+    PID: 728
+    CPU: 0.00%
+    Memory: 0.06 %
+Processname: csrss.exe
+    PID: 736
+    CPU: 0.20%
+    Memory: 0.07 %
+Processname: services.exe
+    PID: 800
+    CPU: 0.00%
+    Memory: 0.09 %
+Processname: lsass.exe
+    PID: 808
+    CPU: 0.00%
+    Memory: 0.22 %
+Processname: PresentationFontCache.exe
+    PID: 820
+    CPU: 0.00%
+    Memory: 0.19 %
+Processname: svchost.exe
+    PID: 932
+    CPU: 0.00%
+    Memory: 0.04 %
+Processname: svchost.exe
+    PID: 956
+    CPU: 0.00%
+    Memory: 0.34 %
+Processname: audiodg.exe
+    PID: 968
+    CPU: 0.00%
+    Memory: 0.17 %
+Processname: fontdrvhost.exe
+    PID: 976
+    CPU: 0.00%
+    Memory: 0.03 %
+Processname: MicrosoftEdge.exe
+    PID: 992
+    CPU: 0.00%
+    Memory: 0.13 %
+Processname: svchost.exe
+    PID: 1044
+    CPU: 0.00%
+    Memory: 0.11 %
+Processname: svchost.exe
+    PID: 1096
+    CPU: 0.00%
+    Memory: 0.06 %
+Processname: svchost.exe
+    PID: 1128
+    CPU: 0.00%
+    Memory: 0.13 %
+Processname: svchost.exe
+    PID: 1192
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: svchost.exe
+    PID: 1248
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: dwm.exe
+    PID: 1372
+    CPU: 0.00%
+    Memory: 0.49 %
+Processname: svchost.exe
+    PID: 1412
+    CPU: 0.00%
+    Memory: 0.13 %
+Processname: jusched.exe
+    PID: 1424
+    CPU: 0.00%
+    Memory: 0.15 %
+Processname: svchost.exe
+    PID: 1536
+    CPU: 0.00%
+    Memory: 0.14 %
+Processname: svchost.exe
+    PID: 1580
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: Dropbox.exe
+    PID: 1596
+    CPU: 2.15%
+    Memory: 1.27 %
+    Connection IP: 162.125.18.133
+    Connection Port: 443
+    Connection IP: 162.125.18.133
+    Connection Port: 443
+    Connection IP: 162.125.64.7
+    Connection Port: 443
+    Connection IP: 162.125.64.3
+    Connection Port: 443
+    Connection IP: 127.0.0.1
+    Connection Port: 49981
+    Connection IP: 127.0.0.1
+    Connection Port: 53499
+    Connection IP: 34.192.22.186
+    Connection Port: 443
+    Connection IP: 162.125.64.3
+    Connection Port: 443
+    Connection IP: 162.125.34.137
+    Connection Port: 443
+    Connection IP: 127.0.0.1
+    Connection Port: 49914
+    Connection IP: 127.0.0.1
+    Connection Port: 53498
+    Connection IP: 127.0.0.1
+    Connection Port: 49982
+    Connection IP: 127.0.0.1
+    Connection Port: 49915
+Processname: svchost.exe
+    PID: 1632
+    CPU: 0.00%
+    Memory: 0.06 %
+Processname: svchost.exe
+    PID: 1640
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: svchost.exe
+    PID: 1656
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: svchost.exe
+    PID: 1664
+    CPU: 0.00%
+    Memory: 0.13 %
+Processname: svchost.exe
+    PID: 1672
+    CPU: 0.00%
+    Memory: 0.15 %
+Processname: svchost.exe
+    PID: 1784
+    CPU: 0.00%
+    Memory: 0.11 %
+Processname: NVDisplay.Container.exe
+    PID: 1840
+    CPU: 0.00%
+    Memory: 0.16 %
+Processname: dllhost.exe
+    PID: 1852
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: RuntimeBroker.exe
+    PID: 1884
+    CPU: 0.00%
+    Memory: 0.11 %
+Processname: Adobe CEF Helper.exe
+    PID: 1992
+    CPU: 0.00%
+    Memory: 0.48 %
+Processname: svchost.exe
+    PID: 2004
+    CPU: 0.00%
+    Memory: 0.46 %
+Processname: svchost.exe
+    PID: 2016
+    CPU: 0.00%
+    Memory: 0.07 %
+Processname: svchost.exe
+    PID: 2024
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: svchost.exe
+    PID: 2104
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: Memory Compression
+    PID: 2116
+    CPU: 0.00%
+    Memory: 5.96 %
+Processname: svchost.exe
+    PID: 2188
+    CPU: 0.00%
+    Memory: 0.21 %
+Processname: svchost.exe
+    PID: 2220
+    CPU: 0.00%
+    Memory: 0.11 %
+Processname: svchost.exe
+    PID: 2232
+    CPU: 0.00%
+    Memory: 0.14 %
+Processname: CoreSync.exe
+    PID: 2244
+    CPU: 0.00%
+    Memory: 0.19 %
+Processname: svchost.exe
+    PID: 2280
+    CPU: 0.00%
+    Memory: 0.09 %
+Processname: igfxCUIService.exe
+    PID: 2320
+    CPU: 0.00%
+    Memory: 0.09 %
+Processname: svchost.exe
+    PID: 2356
+    CPU: 0.00%
+    Memory: 0.10 %
+Processname: svchost.exe
+    PID: 2428
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: svchost.exe
+    PID: 2436
+    CPU: 0.00%
+    Memory: 0.11 %
+Processname: svchost.exe
+    PID: 2536
+    CPU: 0.00%
+    Memory: 0.07 %
+Processname: svchost.exe
+    PID: 2576
+    CPU: 0.00%
+    Memory: 0.25 %
+Processname: svchost.exe
+    PID: 2612
+    CPU: 0.00%
+    Memory: 0.07 %
+Processname: dasHost.exe
+    PID: 2652
+    CPU: 0.00%
+    Memory: 0.21 %
+Processname: svchost.exe
+    PID: 2668
+    CPU: 0.00%
+    Memory: 0.14 %
+Processname: svchost.exe
+    PID: 2748
+    CPU: 0.00%
+    Memory: 0.15 %
+Processname: svchost.exe
+    PID: 2860
+    CPU: 0.00%
+    Memory: 0.17 %
+Processname: svchost.exe
+    PID: 2872
+    CPU: 0.00%
+    Memory: 0.11 %
+Processname: svchost.exe
+    PID: 2912
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: Dropbox.exe
+    PID: 2920
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: Microsoft.Photos.exe
+    PID: 2968
+    CPU: 0.00%
+    Memory: 0.47 %
+    Connection IP: 13.107.5.88
+    Connection Port: 443
+Processname: Code.exe
+    PID: 2988
+    CPU: 0.00%
+    Memory: 0.74 %
+Processname: svchost.exe
+    PID: 3028
+    CPU: 0.00%
+    Memory: 0.10 %
+Processname: svchost.exe
+    PID: 3036
+    CPU: 0.00%
+    Memory: 0.07 %
+Processname: svchost.exe
+    PID: 3092
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: svchost.exe
+    PID: 3172
+    CPU: 0.00%
+    Memory: 0.16 %
+Processname: svchost.exe
+    PID: 3208
+    CPU: 0.00%
+    Memory: 0.13 %
+Processname: Adobe Desktop Service.exe
+    PID: 3228
+    CPU: 0.00%
+    Memory: 0.75 %
+Processname: NVDisplay.Container.exe
+    PID: 3260
+    CPU: 0.00%
+    Memory: 0.31 %
+Processname: spoolsv.exe
+    PID: 3360
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: svchost.exe
+    PID: 3408
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: svchost.exe
+    PID: 3416
+    CPU: 0.00%
+    Memory: 0.16 %
+Processname: ibtsiva.exe
+    PID: 3460
+    CPU: 0.00%
+    Memory: 0.04 %
+Processname: svchost.exe
+    PID: 3516
+    CPU: 0.00%
+    Memory: 0.09 %
+Processname: svchost.exe
+    PID: 3544
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: svchost.exe
+    PID: 3600
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: svchost.exe
+    PID: 3620
+    CPU: 0.00%
+    Memory: 0.30 %
+Processname: svchost.exe
+    PID: 3716
+    CPU: 0.00%
+    Memory: 0.30 %
+Processname: DbxSvc.exe
+    PID: 3728
+    CPU: 0.00%
+    Memory: 0.06 %
+Processname: cmd.exe
+    PID: 3768
+    CPU: 0.00%
+    Memory: 0.05 %
+Processname: svchost.exe
+    PID: 3816
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: explorer.exe
+    PID: 3832
+    CPU: 0.00%
+    Memory: 1.34 %
+Processname: svchost.exe
+    PID: 3892
+    CPU: 0.00%
+    Memory: 0.10 %
+Processname: svchost.exe
+    PID: 3956
+    CPU: 0.00%
+    Memory: 0.15 %
+Processname: ETDService.exe
+    PID: 3972
+    CPU: 0.00%
+    Memory: 0.05 %
+Processname: RAVCpl64.exe
+    PID: 4028
+    CPU: 0.00%
+    Memory: 0.13 %
+Processname: IpOverUsbSvc.exe
+    PID: 4136
+    CPU: 0.00%
+    Memory: 0.13 %
+Processname: svchost.exe
+    PID: 4184
+    CPU: 0.00%
+    Memory: 0.23 %
+    Connection IP: 192.168.1.7
+    Connection Port: 57808
+Processname: NvTelemetryContainer.exe
+    PID: 4188
+    CPU: 0.00%
+    Memory: 0.13 %
+Processname: svchost.exe
+    PID: 4224
+    CPU: 0.00%
+    Memory: 0.07 %
+Processname: svchost.exe
+    PID: 4252
+    CPU: 0.00%
+    Memory: 0.05 %
+Processname: svchost.exe
+    PID: 4296
+    CPU: 0.00%
+    Memory: 0.26 %
+    Connection IP: 40.67.251.132
+    Connection Port: 443
+Processname: WmiPrvSE.exe
+    PID: 4300
+    CPU: 0.20%
+    Memory: 0.19 %
+Processname: firefox.exe
+    PID: 4328
+    CPU: 0.00%
+    Memory: 0.60 %
+    Connection IP: 127.0.0.1
+    Connection Port: 55540
+    Connection IP: 127.0.0.1
+    Connection Port: 55539
+Processname: svchost.exe
+    PID: 4332
+    CPU: 0.00%
+    Memory: 0.10 %
+Processname: conhost.exe
+    PID: 4360
+    CPU: 0.00%
+    Memory: 0.15 %
+Processname: firefox.exe
+    PID: 4376
+    CPU: 0.00%
+    Memory: 0.77 %
+    Connection IP: 127.0.0.1
+    Connection Port: 55817
+    Connection IP: 127.0.0.1
+    Connection Port: 55816
+Processname: firefox.exe
+    PID: 4404
+    CPU: 0.00%
+    Memory: 2.99 %
+    Connection IP: 198.252.206.25
+    Connection Port: 443
+    Connection IP: 127.0.0.1
+    Connection Port: 55534
+    Connection IP: 127.0.0.1
+    Connection Port: 55535
+    Connection IP: 192.30.253.124
+    Connection Port: 443
+    Connection IP: 85.159.234.28
+    Connection Port: 443
+    Connection IP: 34.223.240.82
+    Connection Port: 443
+Processname: svchost.exe
+    PID: 4428
+    CPU: 0.00%
+    Memory: 0.06 %
+Processname: Creative Cloud.exe
+    PID: 4440
+    CPU: 0.00%
+    Memory: 0.79 %
+Processname: svchost.exe
+    PID: 4816
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: node.exe
+    PID: 4876
+    CPU: 0.00%
+    Memory: 0.42 %
+Processname: conhost.exe
+    PID: 5112
+    CPU: 0.00%
+    Memory: 0.06 %
+Processname: ApplicationFrameHost.exe
+    PID: 5132
+    CPU: 0.00%
+    Memory: 0.31 %
+Processname: sqlwriter.exe
+    PID: 5268
+    CPU: 0.00%
+    Memory: 0.07 %
+Processname: AdobeUpdateService.exe
+    PID: 5300
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: Code.exe
+    PID: 5324
+    CPU: 0.00%
+    Memory: 4.47 %
+Processname: OfficeClickToRun.exe
+    PID: 5348
+    CPU: 0.00%
+    Memory: 0.46 %
+Processname: Code.exe
+    PID: 5428
+    CPU: 0.00%
+    Memory: 0.26 %
+Processname: AGSService.exe
+    PID: 5524
+    CPU: 0.00%
+    Memory: 0.15 %
+Processname: AGMService.exe
+    PID: 5600
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: SecurityHealthSystray.exe
+    PID: 5712
+    CPU: 0.00%
+    Memory: 0.09 %
+Processname: RAVBg64.exe
+    PID: 6024
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: svchost.exe
+    PID: 6036
+    CPU: 0.00%
+    Memory: 0.10 %
+Processname: svchost.exe
+    PID: 6040
+    CPU: 0.00%
+    Memory: 0.07 %
+Processname: svchost.exe
+    PID: 6136
+    CPU: 0.00%
+    Memory: 0.10 %
+Processname: RuntimeBroker.exe
+    PID: 6224
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: Dropbox.exe
+    PID: 6420
+    CPU: 0.00%
+    Memory: 0.11 %
+Processname: ETDCtrl.exe
+    PID: 6500
+    CPU: 0.00%
+    Memory: 0.20 %
+Processname: sihost.exe
+    PID: 6624
+    CPU: 0.00%
+    Memory: 0.32 %
+Processname: svchost.exe
+    PID: 6652
+    CPU: 0.00%
+    Memory: 0.24 %
+Processname: svchost.exe
+    PID: 6728
+    CPU: 0.00%
+    Memory: 0.44 %
+Processname: taskhostw.exe
+    PID: 6824
+    CPU: 0.00%
+    Memory: 0.20 %
+Processname: DropboxUpdate.exe
+    PID: 6832
+    CPU: 0.00%
+    Memory: 0.00 %
+Processname: svchost.exe
+    PID: 6844
+    CPU: 0.00%
+    Memory: 0.14 %
+Processname: SearchIndexer.exe
+    PID: 6868
+    CPU: 0.00%
+    Memory: 0.36 %
+Processname: svchost.exe
+    PID: 7080
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: ctfmon.exe
+    PID: 7160
+    CPU: 0.00%
+    Memory: 0.18 %
+Processname: svchost.exe
+    PID: 7200
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: CCXProcess.exe
+    PID: 7332
+    CPU: 0.00%
+    Memory: 0.03 %
+Processname: RTFTrack.exe
+    PID: 7416
+    CPU: 0.00%
+    Memory: 0.10 %
+Processname: igfxEM.exe
+    PID: 7448
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: svchost.exe
+    PID: 7516
+    CPU: 0.00%
+    Memory: 0.09 %
+Processname: svchost.exe
+    PID: 7524
+    CPU: 0.00%
+    Memory: 0.19 %
+Processname: Adobe CEF Helper.exe
+    PID: 7548
+    CPU: 0.00%
+    Memory: 0.47 %
+Processname: python.exe
+    PID: 7552
+    CPU: 0.00%
+    Memory: 0.25 %
+Processname: SgrmBroker.exe
+    PID: 7608
+    CPU: 0.00%
+    Memory: 0.07 %
+Processname: igfxHK.exe
+    PID: 7652
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: igfxTray.exe
+    PID: 7684
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: svchost.exe
+    PID: 7696
+    CPU: 0.00%
+    Memory: 0.09 %
+Processname: ETDCtrlHelper.exe
+    PID: 7732
+    CPU: 0.00%
+    Memory: 0.09 %
+Processname: ETDIntelligent.exe
+    PID: 7756
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: Code.exe
+    PID: 8084
+    CPU: 0.00%
+    Memory: 0.52 %
+Processname: unsecapp.exe
+    PID: 8148
+    CPU: 0.00%
+    Memory: 0.07 %
+Processname: CompPkgSrv.exe
+    PID: 8156
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: SearchUI.exe
+    PID: 8208
+    CPU: 0.00%
+    Memory: 0.89 %
+    Connection IP: 204.79.197.222
+    Connection Port: 443
+    Connection IP: 13.107.136.254
+    Connection Port: 443
+    Connection IP: 13.107.21.200
+    Connection Port: 443
+    Connection IP: 13.107.246.254
+    Connection Port: 443
+    Connection IP: 13.107.3.254
+    Connection Port: 443
+Processname: RuntimeBroker.exe
+    PID: 8216
+    CPU: 0.00%
+    Memory: 0.25 %
+Processname: dllhost.exe
+    PID: 8276
+    CPU: 0.00%
+    Memory: 0.10 %
+Processname: YourPhone.exe
+    PID: 8344
+    CPU: 0.00%
+    Memory: 0.37 %
+    Connection IP: 13.107.5.88
+    Connection Port: 443
+Processname: svchost.exe
+    PID: 8392
+    CPU: 0.00%
+    Memory: 0.25 %
+Processname: RAVBg64.exe
+    PID: 8416
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: browser_broker.exe
+    PID: 8420
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: Code.exe
+    PID: 8672
+    CPU: 0.00%
+    Memory: 0.26 %
+Processname: RuntimeBroker.exe
+    PID: 8752
+    CPU: 0.00%
+    Memory: 0.28 %
+Processname: HxTsr.exe
+    PID: 8772
+    CPU: 0.00%
+    Memory: 0.00 %
+    Connection IP: 13.107.18.11
+    Connection Port: 443
+Processname: firefox.exe
+    PID: 8956
+    CPU: 0.00%
+    Memory: 0.60 %
+Processname: svchost.exe
+    PID: 8992
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: svchost.exe
+    PID: 8996
+    CPU: 0.00%
+    Memory: 0.15 %
+Processname: HxOutlook.exe
+    PID: 9068
+    CPU: 0.00%
+    Memory: 0.00 %
+Processname: MsMpEng.exe
+    PID: 9152
+    CPU: 0.00%
+    Memory: 2.28 %
+Processname: conhost.exe
+    PID: 9176
+    CPU: 0.00%
+    Memory: 0.06 %
+Processname: svchost.exe
+    PID: 9232
+    CPU: 0.00%
+    Memory: 0.25 %
+Processname: smartscreen.exe
+    PID: 9312
+    CPU: 0.00%
+    Memory: 0.23 %
+Processname: SystemSettings.exe
+    PID: 9324
+    CPU: 0.00%
+    Memory: 0.00 %
+Processname: svchost.exe
+    PID: 9356
+    CPU: 0.00%
+    Memory: 0.37 %
+Processname: SettingSyncHost.exe
+    PID: 9520
+    CPU: 0.00%
+    Memory: 0.07 %
+Processname: OneDrive.exe
+    PID: 9532
+    CPU: 0.00%
+    Memory: 3.31 %
+    Connection IP: 52.114.32.8
+    Connection Port: 443
+    Connection IP: 40.67.254.36
+    Connection Port: 443
+    Connection IP: 52.114.32.8
+    Connection Port: 443
+Processname: RAVBg64.exe
+    PID: 9680
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: conhost.exe
+    PID: 9748
+    CPU: 0.00%
+    Memory: 0.06 %
+Processname: RuntimeBroker.exe
+    PID: 9888
+    CPU: 0.00%
+    Memory: 0.21 %
+Processname: SecurityHealthService.exe
+    PID: 10176
+    CPU: 0.00%
+    Memory: 0.14 %
+Processname: svchost.exe
+    PID: 10236
+    CPU: 0.00%
+    Memory: 0.07 %
+Processname: RuntimeBroker.exe
+    PID: 10432
+    CPU: 0.00%
+    Memory: 0.10 %
+Processname: Code.exe
+    PID: 10588
+    CPU: 0.00%
+    Memory: 0.32 %
+Processname: RuntimeBroker.exe
+    PID: 10616
+    CPU: 0.00%
+    Memory: 0.22 %
+Processname: python.exe
+    PID: 11152
+    CPU: 0.00%
+    Memory: 1.06 %
+Processname: Code.exe
+    PID: 11228
+    CPU: 0.00%
+    Memory: 2.52 %
+Processname: svchost.exe
+    PID: 11332
+    CPU: 0.00%
+    Memory: 0.06 %
+Processname: cmd.exe
+    PID: 11388
+    CPU: 0.00%
+    Memory: 0.05 %
+Processname: MicrosoftEdgeSH.exe
+    PID: 11568
+    CPU: 0.00%
+    Memory: 0.04 %
+Processname: dllhost.exe
+    PID: 11676
+    CPU: 0.00%
+    Memory: 0.11 %
+Processname: svchost.exe
+    PID: 11836
+    CPU: 0.00%
+    Memory: 0.11 %
+Processname: Code.exe
+    PID: 11968
+    CPU: 0.00%
+    Memory: 0.85 %
+Processname: FileCoAuth.exe
+    PID: 12080
+    CPU: 0.00%
+    Memory: 0.15 %
+Processname: winpty-agent.exe
+    PID: 12112
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: MicrosoftEdgeCP.exe
+    PID: 12368
+    CPU: 0.00%
+    Memory: 0.26 %
+Processname: firefox.exe
+    PID: 12408
+    CPU: 0.00%
+    Memory: 1.90 %
+    Connection IP: 127.0.0.1
+    Connection Port: 55676
+    Connection IP: 127.0.0.1
+    Connection Port: 55675
+Processname: Taskmgr.exe
+    PID: 12484
+    CPU: 0.00%
+    Memory: 0.55 %
+Processname: RuntimeBroker.exe
+    PID: 12660
+    CPU: 0.00%
+    Memory: 0.33 %
+Processname: Code.exe
+    PID: 12668
+    CPU: 0.00%
+    Memory: 1.51 %
+Processname: CodeHelper.exe
+    PID: 12684
+    CPU: 0.00%
+    Memory: 0.16 %
+Processname: NisSrv.exe
+    PID: 12724
+    CPU: 0.00%
+    Memory: 0.13 %
+Processname: WinStore.App.exe
+    PID: 12764
+    CPU: 0.00%
+    Memory: 0.00 %
+Processname: conhost.exe
+    PID: 12996
+    CPU: 0.00%
+    Memory: 0.06 %
+Processname: firefox.exe
+    PID: 13088
+    CPU: 0.00%
+    Memory: 0.81 %
+    Connection IP: 127.0.0.1
+    Connection Port: 55572
+    Connection IP: 127.0.0.1
+    Connection Port: 55571
+Processname: firefox.exe
+    PID: 13188
+    CPU: 0.00%
+    Memory: 0.83 %
+    Connection IP: 127.0.0.1
+    Connection Port: 55687
+    Connection IP: 127.0.0.1
+    Connection Port: 55686
+Processname: firefox.exe
+    PID: 13212
+    CPU: 0.00%
+    Memory: 1.52 %
+    Connection IP: 127.0.0.1
+    Connection Port: 55547
+    Connection IP: 127.0.0.1
+    Connection Port: 55546
+Processname: winpty-agent.exe
+    PID: 13276
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: Code.exe
+    PID: 13300
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: RuntimeBroker.exe
+    PID: 13308
+    CPU: 0.00%
+    Memory: 0.24 %
+Processname: LockApp.exe
+    PID: 13320
+    CPU: 0.00%
+    Memory: 0.45 %
+Processname: FMAPP.exe
+    PID: 13728
+    CPU: 0.00%
+    Memory: 0.09 %
+Processname: svchost.exe
+    PID: 13752
+    CPU: 0.00%
+    Memory: 0.10 %
+Processname: firefox.exe
+    PID: 14856
+    CPU: 0.00%
+    Memory: 1.03 %
+    Connection IP: 127.0.0.1
+    Connection Port: 55537
+    Connection IP: 127.0.0.1
+    Connection Port: 55536
+Processname: svchost.exe
+    PID: 15284
+    CPU: 0.00%
+    Memory: 0.06 %
+Processname: conhost.exe
+    PID: 15288
+    CPU: 0.00%
+    Memory: 0.14 %
+Processname: svchost.exe
+    PID: 15964
+    CPU: 0.00%
+    Memory: 0.13 %
+Processname: python.exe
+    PID: 16776
+    CPU: 0.00%
+    Memory: 0.16 %
+Processname: firefox.exe
+    PID: 17108
+    CPU: 0.00%
+    Memory: 0.77 %
+    Connection IP: 127.0.0.1
+    Connection Port: 55715
+    Connection IP: 127.0.0.1
+    Connection Port: 55714
+Processname: python.exe
+    PID: 17208
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: System Idle Process
+    PID: 0
+    CPU: 94.92%
+    Memory: 0.00 %
+    Connection IP: 74.125.193.155
+    Connection Port: 443
+    Connection IP: 74.125.193.95
+    Connection Port: 443
+Processname: System
+    PID: 4
+    CPU: 0.39%
+    Memory: 0.05 %
+Processname: winlogon.exe
+    PID: 8
+    CPU: 0.00%
+    Memory: 0.19 %
+Processname: Registry
+    PID: 120
+    CPU: 0.00%
+    Memory: 0.97 %
+Processname: ShellExperienceHost.exe
+    PID: 144
+    CPU: 0.00%
+    Memory: 0.72 %
+Processname: AdobeIPCBroker.exe
+    PID: 216
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: smss.exe
+    PID: 428
+    CPU: 0.00%
+    Memory: 0.01 %
+Processname: csrss.exe
+    PID: 620
+    CPU: 0.00%
+    Memory: 0.05 %
+Processname: fontdrvhost.exe
+    PID: 624
+    CPU: 0.00%
+    Memory: 0.34 %
+Processname: svchost.exe
+    PID: 724
+    CPU: 0.00%
+    Memory: 0.18 %
+Processname: wininit.exe
+    PID: 728
+    CPU: 0.00%
+    Memory: 0.06 %
+Processname: csrss.exe
+    PID: 736
+    CPU: 0.00%
+    Memory: 0.07 %
+Processname: services.exe
+    PID: 800
+    CPU: 0.00%
+    Memory: 0.10 %
+Processname: lsass.exe
+    PID: 808
+    CPU: 0.00%
+    Memory: 0.22 %
+Processname: PresentationFontCache.exe
+    PID: 820
+    CPU: 0.00%
+    Memory: 0.19 %
+Processname: svchost.exe
+    PID: 932
+    CPU: 0.00%
+    Memory: 0.04 %
+Processname: svchost.exe
+    PID: 956
+    CPU: 0.00%
+    Memory: 0.35 %
+Processname: audiodg.exe
+    PID: 968
+    CPU: 0.00%
+    Memory: 0.17 %
+Processname: fontdrvhost.exe
+    PID: 976
+    CPU: 0.00%
+    Memory: 0.03 %
+Processname: MicrosoftEdge.exe
+    PID: 992
+    CPU: 0.00%
+    Memory: 0.13 %
+Processname: svchost.exe
+    PID: 1044
+    CPU: 0.00%
+    Memory: 0.11 %
+Processname: svchost.exe
+    PID: 1096
+    CPU: 0.00%
+    Memory: 0.06 %
+Processname: svchost.exe
+    PID: 1128
+    CPU: 0.00%
+    Memory: 0.13 %
+Processname: svchost.exe
+    PID: 1192
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: svchost.exe
+    PID: 1248
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: dwm.exe
+    PID: 1372
+    CPU: 0.00%
+    Memory: 0.50 %
+Processname: svchost.exe
+    PID: 1412
+    CPU: 0.00%
+    Memory: 0.13 %
+Processname: jusched.exe
+    PID: 1424
+    CPU: 0.00%
+    Memory: 0.15 %
+Processname: svchost.exe
+    PID: 1536
+    CPU: 0.00%
+    Memory: 0.17 %
+Processname: svchost.exe
+    PID: 1580
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: Dropbox.exe
+    PID: 1596
+    CPU: 2.54%
+    Memory: 1.14 %
+    Connection IP: 162.125.18.133
+    Connection Port: 443
+    Connection IP: 162.125.18.133
+    Connection Port: 443
+    Connection IP: 162.125.64.7
+    Connection Port: 443
+    Connection IP: 162.125.64.3
+    Connection Port: 443
+    Connection IP: 127.0.0.1
+    Connection Port: 49981
+    Connection IP: 127.0.0.1
+    Connection Port: 53499
+    Connection IP: 34.192.22.186
+    Connection Port: 443
+    Connection IP: 162.125.64.3
+    Connection Port: 443
+    Connection IP: 162.125.34.137
+    Connection Port: 443
+    Connection IP: 127.0.0.1
+    Connection Port: 49914
+    Connection IP: 127.0.0.1
+    Connection Port: 53498
+    Connection IP: 127.0.0.1
+    Connection Port: 49982
+    Connection IP: 127.0.0.1
+    Connection Port: 49915
+Processname: svchost.exe
+    PID: 1632
+    CPU: 0.00%
+    Memory: 0.06 %
+Processname: svchost.exe
+    PID: 1640
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: svchost.exe
+    PID: 1656
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: svchost.exe
+    PID: 1664
+    CPU: 0.00%
+    Memory: 0.14 %
+Processname: svchost.exe
+    PID: 1672
+    CPU: 0.00%
+    Memory: 0.14 %
+Processname: svchost.exe
+    PID: 1784
+    CPU: 0.00%
+    Memory: 0.11 %
+Processname: NVDisplay.Container.exe
+    PID: 1840
+    CPU: 0.00%
+    Memory: 0.16 %
+Processname: dllhost.exe
+    PID: 1852
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: RuntimeBroker.exe
+    PID: 1884
+    CPU: 0.00%
+    Memory: 0.11 %
+Processname: Adobe CEF Helper.exe
+    PID: 1992
+    CPU: 0.00%
+    Memory: 0.48 %
+Processname: svchost.exe
+    PID: 2004
+    CPU: 0.00%
+    Memory: 0.46 %
+Processname: svchost.exe
+    PID: 2016
+    CPU: 0.00%
+    Memory: 0.07 %
+Processname: svchost.exe
+    PID: 2024
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: svchost.exe
+    PID: 2104
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: Memory Compression
+    PID: 2116
+    CPU: 0.00%
+    Memory: 6.38 %
+Processname: svchost.exe
+    PID: 2188
+    CPU: 0.00%
+    Memory: 0.21 %
+Processname: svchost.exe
+    PID: 2220
+    CPU: 0.00%
+    Memory: 0.11 %
+Processname: svchost.exe
+    PID: 2232
+    CPU: 0.00%
+    Memory: 0.14 %
+Processname: CoreSync.exe
+    PID: 2244
+    CPU: 0.00%
+    Memory: 0.20 %
+Processname: svchost.exe
+    PID: 2280
+    CPU: 0.00%
+    Memory: 0.09 %
+Processname: igfxCUIService.exe
+    PID: 2320
+    CPU: 0.00%
+    Memory: 0.09 %
+Processname: svchost.exe
+    PID: 2356
+    CPU: 0.00%
+    Memory: 0.10 %
+Processname: svchost.exe
+    PID: 2428
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: svchost.exe
+    PID: 2436
+    CPU: 0.00%
+    Memory: 0.11 %
+Processname: svchost.exe
+    PID: 2536
+    CPU: 0.00%
+    Memory: 0.07 %
+Processname: svchost.exe
+    PID: 2576
+    CPU: 0.20%
+    Memory: 0.23 %
+Processname: svchost.exe
+    PID: 2612
+    CPU: 0.00%
+    Memory: 0.07 %
+Processname: dasHost.exe
+    PID: 2652
+    CPU: 0.00%
+    Memory: 0.21 %
+Processname: svchost.exe
+    PID: 2668
+    CPU: 0.00%
+    Memory: 0.14 %
+Processname: svchost.exe
+    PID: 2748
+    CPU: 0.00%
+    Memory: 0.16 %
+Processname: svchost.exe
+    PID: 2860
+    CPU: 0.00%
+    Memory: 0.17 %
+Processname: svchost.exe
+    PID: 2872
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: svchost.exe
+    PID: 2912
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: Dropbox.exe
+    PID: 2920
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: Microsoft.Photos.exe
+    PID: 2968
+    CPU: 0.00%
+    Memory: 0.47 %
+    Connection IP: 13.107.5.88
+    Connection Port: 443
+Processname: Code.exe
+    PID: 2988
+    CPU: 0.00%
+    Memory: 0.74 %
+Processname: svchost.exe
+    PID: 3028
+    CPU: 0.00%
+    Memory: 0.10 %
+Processname: svchost.exe
+    PID: 3036
+    CPU: 0.00%
+    Memory: 0.07 %
+Processname: svchost.exe
+    PID: 3092
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: svchost.exe
+    PID: 3172
+    CPU: 0.00%
+    Memory: 0.16 %
+Processname: svchost.exe
+    PID: 3208
+    CPU: 0.00%
+    Memory: 0.13 %
+Processname: Adobe Desktop Service.exe
+    PID: 3228
+    CPU: 0.00%
+    Memory: 0.75 %
+Processname: NVDisplay.Container.exe
+    PID: 3260
+    CPU: 0.00%
+    Memory: 0.31 %
+Processname: spoolsv.exe
+    PID: 3360
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: svchost.exe
+    PID: 3408
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: svchost.exe
+    PID: 3416
+    CPU: 0.00%
+    Memory: 0.16 %
+Processname: ibtsiva.exe
+    PID: 3460
+    CPU: 0.00%
+    Memory: 0.04 %
+Processname: svchost.exe
+    PID: 3516
+    CPU: 0.00%
+    Memory: 0.09 %
+Processname: svchost.exe
+    PID: 3544
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: svchost.exe
+    PID: 3600
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: svchost.exe
+    PID: 3620
+    CPU: 0.00%
+    Memory: 0.31 %
+Processname: svchost.exe
+    PID: 3716
+    CPU: 0.00%
+    Memory: 0.41 %
+Processname: DbxSvc.exe
+    PID: 3728
+    CPU: 0.00%
+    Memory: 0.06 %
+Processname: cmd.exe
+    PID: 3768
+    CPU: 0.00%
+    Memory: 0.05 %
+Processname: svchost.exe
+    PID: 3816
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: explorer.exe
+    PID: 3832
+    CPU: 0.00%
+    Memory: 1.34 %
+Processname: svchost.exe
+    PID: 3892
+    CPU: 0.00%
+    Memory: 0.10 %
+Processname: svchost.exe
+    PID: 3956
+    CPU: 0.00%
+    Memory: 0.15 %
+Processname: ETDService.exe
+    PID: 3972
+    CPU: 0.00%
+    Memory: 0.05 %
+Processname: RAVCpl64.exe
+    PID: 4028
+    CPU: 0.00%
+    Memory: 0.13 %
+Processname: IpOverUsbSvc.exe
+    PID: 4136
+    CPU: 0.00%
+    Memory: 0.13 %
+Processname: svchost.exe
+    PID: 4184
+    CPU: 0.00%
+    Memory: 0.23 %
+    Connection IP: 192.168.1.7
+    Connection Port: 57808
+Processname: NvTelemetryContainer.exe
+    PID: 4188
+    CPU: 0.00%
+    Memory: 0.13 %
+Processname: svchost.exe
+    PID: 4224
+    CPU: 0.00%
+    Memory: 0.07 %
+Processname: svchost.exe
+    PID: 4252
+    CPU: 0.00%
+    Memory: 0.05 %
+Processname: svchost.exe
+    PID: 4296
+    CPU: 0.00%
+    Memory: 0.26 %
+    Connection IP: 40.67.251.132
+    Connection Port: 443
+Processname: WmiPrvSE.exe
+    PID: 4300
+    CPU: 0.20%
+    Memory: 0.18 %
+Processname: firefox.exe
+    PID: 4328
+    CPU: 0.00%
+    Memory: 0.60 %
+    Connection IP: 127.0.0.1
+    Connection Port: 55540
+    Connection IP: 127.0.0.1
+    Connection Port: 55539
+Processname: svchost.exe
+    PID: 4332
+    CPU: 0.00%
+    Memory: 0.10 %
+Processname: conhost.exe
+    PID: 4360
+    CPU: 0.00%
+    Memory: 0.15 %
+Processname: firefox.exe
+    PID: 4376
+    CPU: 0.00%
+    Memory: 0.77 %
+    Connection IP: 127.0.0.1
+    Connection Port: 55817
+    Connection IP: 127.0.0.1
+    Connection Port: 55816
+Processname: firefox.exe
+    PID: 4404
+    CPU: 0.00%
+    Memory: 2.82 %
+    Connection IP: 74.125.193.94
+    Connection Port: 443
+    Connection IP: 127.0.0.1
+    Connection Port: 55534
+    Connection IP: 198.252.206.25
+    Connection Port: 443
+    Connection IP: 74.125.193.155
+    Connection Port: 443
+    Connection IP: 74.125.193.105
+    Connection Port: 443
+    Connection IP: 127.0.0.1
+    Connection Port: 55535
+    Connection IP: 192.30.253.124
+    Connection Port: 443
+    Connection IP: 34.213.175.58
+    Connection Port: 443
+    Connection IP: 85.159.234.28
+    Connection Port: 443
+Processname: svchost.exe
+    PID: 4428
+    CPU: 0.00%
+    Memory: 0.06 %
+Processname: Creative Cloud.exe
+    PID: 4440
+    CPU: 0.00%
+    Memory: 0.79 %
+Processname: svchost.exe
+    PID: 4816
+    CPU: 0.00%
+    Memory: 0.13 %
+Processname: node.exe
+    PID: 4876
+    CPU: 0.00%
+    Memory: 0.42 %
+Processname: conhost.exe
+    PID: 5112
+    CPU: 0.00%
+    Memory: 0.06 %
+Processname: ApplicationFrameHost.exe
+    PID: 5132
+    CPU: 0.00%
+    Memory: 0.31 %
+Processname: sqlwriter.exe
+    PID: 5268
+    CPU: 0.00%
+    Memory: 0.07 %
+Processname: AdobeUpdateService.exe
+    PID: 5300
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: Code.exe
+    PID: 5324
+    CPU: 0.20%
+    Memory: 4.07 %
+Processname: OfficeClickToRun.exe
+    PID: 5348
+    CPU: 0.00%
+    Memory: 0.44 %
+Processname: Code.exe
+    PID: 5428
+    CPU: 0.00%
+    Memory: 0.26 %
+Processname: AGSService.exe
+    PID: 5524
+    CPU: 0.00%
+    Memory: 0.15 %
+Processname: AGMService.exe
+    PID: 5600
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: SecurityHealthSystray.exe
+    PID: 5712
+    CPU: 0.00%
+    Memory: 0.09 %
+Processname: RAVBg64.exe
+    PID: 6024
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: svchost.exe
+    PID: 6036
+    CPU: 0.00%
+    Memory: 0.10 %
+Processname: svchost.exe
+    PID: 6040
+    CPU: 0.00%
+    Memory: 0.07 %
+Processname: svchost.exe
+    PID: 6136
+    CPU: 0.00%
+    Memory: 0.10 %
+Processname: RuntimeBroker.exe
+    PID: 6224
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: Dropbox.exe
+    PID: 6420
+    CPU: 0.00%
+    Memory: 0.11 %
+Processname: ETDCtrl.exe
+    PID: 6500
+    CPU: 0.00%
+    Memory: 0.20 %
+Processname: sihost.exe
+    PID: 6624
+    CPU: 0.00%
+    Memory: 0.33 %
+Processname: svchost.exe
+    PID: 6652
+    CPU: 0.00%
+    Memory: 0.25 %
+Processname: svchost.exe
+    PID: 6728
+    CPU: 0.00%
+    Memory: 0.44 %
+Processname: taskhostw.exe
+    PID: 6824
+    CPU: 0.00%
+    Memory: 0.21 %
+Processname: DropboxUpdate.exe
+    PID: 6832
+    CPU: 0.00%
+    Memory: 0.00 %
+Processname: svchost.exe
+    PID: 6844
+    CPU: 0.00%
+    Memory: 0.15 %
+Processname: SearchIndexer.exe
+    PID: 6868
+    CPU: 0.00%
+    Memory: 0.36 %
+Processname: svchost.exe
+    PID: 7080
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: ctfmon.exe
+    PID: 7160
+    CPU: 0.00%
+    Memory: 0.18 %
+Processname: svchost.exe
+    PID: 7200
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: CCXProcess.exe
+    PID: 7332
+    CPU: 0.00%
+    Memory: 0.03 %
+Processname: RTFTrack.exe
+    PID: 7416
+    CPU: 0.00%
+    Memory: 0.10 %
+Processname: igfxEM.exe
+    PID: 7448
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: svchost.exe
+    PID: 7516
+    CPU: 0.00%
+    Memory: 0.09 %
+Processname: svchost.exe
+    PID: 7524
+    CPU: 0.00%
+    Memory: 0.19 %
+Processname: Adobe CEF Helper.exe
+    PID: 7548
+    CPU: 0.00%
+    Memory: 0.47 %
+Processname: python.exe
+    PID: 7552
+    CPU: 0.00%
+    Memory: 0.19 %
+Processname: SgrmBroker.exe
+    PID: 7608
+    CPU: 0.00%
+    Memory: 0.06 %
+Processname: igfxHK.exe
+    PID: 7652
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: igfxTray.exe
+    PID: 7684
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: svchost.exe
+    PID: 7696
+    CPU: 0.00%
+    Memory: 0.09 %
+Processname: ETDCtrlHelper.exe
+    PID: 7732
+    CPU: 0.00%
+    Memory: 0.09 %
+Processname: ETDIntelligent.exe
+    PID: 7756
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: unsecapp.exe
+    PID: 8148
+    CPU: 0.00%
+    Memory: 0.07 %
+Processname: CompPkgSrv.exe
+    PID: 8156
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: SearchUI.exe
+    PID: 8208
+    CPU: 0.00%
+    Memory: 0.89 %
+    Connection IP: 204.79.197.222
+    Connection Port: 443
+    Connection IP: 13.107.136.254
+    Connection Port: 443
+    Connection IP: 13.107.21.200
+    Connection Port: 443
+    Connection IP: 13.107.246.254
+    Connection Port: 443
+    Connection IP: 13.107.3.254
+    Connection Port: 443
+Processname: RuntimeBroker.exe
+    PID: 8216
+    CPU: 0.00%
+    Memory: 0.25 %
+Processname: dllhost.exe
+    PID: 8276
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: YourPhone.exe
+    PID: 8344
+    CPU: 0.00%
+    Memory: 0.37 %
+    Connection IP: 13.107.5.88
+    Connection Port: 443
+Processname: svchost.exe
+    PID: 8392
+    CPU: 0.00%
+    Memory: 0.22 %
+Processname: RAVBg64.exe
+    PID: 8416
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: browser_broker.exe
+    PID: 8420
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: Code.exe
+    PID: 8672
+    CPU: 0.00%
+    Memory: 0.25 %
+Processname: RuntimeBroker.exe
+    PID: 8752
+    CPU: 0.00%
+    Memory: 0.28 %
+Processname: HxTsr.exe
+    PID: 8772
+    CPU: 0.00%
+    Memory: 0.08 %
+    Connection IP: 13.107.18.11
+    Connection Port: 443
+Processname: firefox.exe
+    PID: 8956
+    CPU: 0.00%
+    Memory: 0.58 %
+Processname: svchost.exe
+    PID: 8992
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: svchost.exe
+    PID: 8996
+    CPU: 0.00%
+    Memory: 0.15 %
+Processname: HxOutlook.exe
+    PID: 9068
+    CPU: 0.00%
+    Memory: 0.00 %
+Processname: MsMpEng.exe
+    PID: 9152
+    CPU: 0.00%
+    Memory: 2.10 %
+Processname: conhost.exe
+    PID: 9176
+    CPU: 0.00%
+    Memory: 0.06 %
+Processname: svchost.exe
+    PID: 9232
+    CPU: 0.00%
+    Memory: 0.25 %
+Processname: smartscreen.exe
+    PID: 9312
+    CPU: 0.00%
+    Memory: 0.26 %
+Processname: SystemSettings.exe
+    PID: 9324
+    CPU: 0.00%
+    Memory: 0.00 %
+Processname: svchost.exe
+    PID: 9356
+    CPU: 0.00%
+    Memory: 0.35 %
+Processname: SettingSyncHost.exe
+    PID: 9520
+    CPU: 0.00%
+    Memory: 0.07 %
+Processname: OneDrive.exe
+    PID: 9532
+    CPU: 0.00%
+    Memory: 3.28 %
+    Connection IP: 52.114.32.8
+    Connection Port: 443
+    Connection IP: 52.114.32.8
+    Connection Port: 443
+    Connection IP: 40.67.254.36
+    Connection Port: 443
+Processname: RAVBg64.exe
+    PID: 9680
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: conhost.exe
+    PID: 9748
+    CPU: 0.00%
+    Memory: 0.06 %
+Processname: RuntimeBroker.exe
+    PID: 9888
+    CPU: 0.00%
+    Memory: 0.21 %
+Processname: svchost.exe
+    PID: 9992
+    CPU: 0.00%
+    Memory: 0.13 %
+Processname: SecurityHealthService.exe
+    PID: 10176
+    CPU: 0.00%
+    Memory: 0.14 %
+Processname: svchost.exe
+    PID: 10236
+    CPU: 0.00%
+    Memory: 0.06 %
+Processname: RuntimeBroker.exe
+    PID: 10432
+    CPU: 0.00%
+    Memory: 0.10 %
+Processname: Code.exe
+    PID: 10588
+    CPU: 0.00%
+    Memory: 0.29 %
+Processname: RuntimeBroker.exe
+    PID: 10616
+    CPU: 0.00%
+    Memory: 0.22 %
+Processname: python.exe
+    PID: 11152
+    CPU: 0.00%
+    Memory: 1.06 %
+Processname: Code.exe
+    PID: 11228
+    CPU: 0.39%
+    Memory: 2.48 %
+Processname: svchost.exe
+    PID: 11332
+    CPU: 0.00%
+    Memory: 0.06 %
+Processname: cmd.exe
+    PID: 11388
+    CPU: 0.00%
+    Memory: 0.05 %
+Processname: MicrosoftEdgeSH.exe
+    PID: 11568
+    CPU: 0.00%
+    Memory: 0.04 %
+Processname: dllhost.exe
+    PID: 11676
+    CPU: 0.00%
+    Memory: 0.11 %
+Processname: svchost.exe
+    PID: 11836
+    CPU: 0.00%
+    Memory: 0.11 %
+Processname: Code.exe
+    PID: 11968
+    CPU: 0.78%
+    Memory: 0.86 %
+Processname: FileCoAuth.exe
+    PID: 12080
+    CPU: 0.00%
+    Memory: 0.15 %
+Processname: winpty-agent.exe
+    PID: 12112
+    CPU: 0.00%
+    Memory: 0.09 %
+Processname: MicrosoftEdgeCP.exe
+    PID: 12368
+    CPU: 0.00%
+    Memory: 0.26 %
+Processname: firefox.exe
+    PID: 12408
+    CPU: 0.00%
+    Memory: 2.64 %
+    Connection IP: 127.0.0.1
+    Connection Port: 55676
+    Connection IP: 127.0.0.1
+    Connection Port: 55675
+Processname: Taskmgr.exe
+    PID: 12484
+    CPU: 0.20%
+    Memory: 0.55 %
+Processname: RuntimeBroker.exe
+    PID: 12660
+    CPU: 0.00%
+    Memory: 0.33 %
+Processname: Code.exe
+    PID: 12668
+    CPU: 0.00%
+    Memory: 1.46 %
+Processname: CodeHelper.exe
+    PID: 12684
+    CPU: 0.00%
+    Memory: 0.16 %
+Processname: NisSrv.exe
+    PID: 12724
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: WinStore.App.exe
+    PID: 12764
+    CPU: 0.00%
+    Memory: 0.00 %
+Processname: conhost.exe
+    PID: 12996
+    CPU: 0.00%
+    Memory: 0.06 %
+Processname: firefox.exe
+    PID: 13088
+    CPU: 0.00%
+    Memory: 0.89 %
+    Connection IP: 127.0.0.1
+    Connection Port: 55572
+    Connection IP: 127.0.0.1
+    Connection Port: 55571
+Processname: firefox.exe
+    PID: 13188
+    CPU: 0.00%
+    Memory: 0.82 %
+    Connection IP: 127.0.0.1
+    Connection Port: 55687
+    Connection IP: 127.0.0.1
+    Connection Port: 55686
+Processname: firefox.exe
+    PID: 13212
+    CPU: 0.00%
+    Memory: 1.74 %
+    Connection IP: 127.0.0.1
+    Connection Port: 55547
+    Connection IP: 127.0.0.1
+    Connection Port: 55546
+Processname: winpty-agent.exe
+    PID: 13276
+    CPU: 0.00%
+    Memory: 0.08 %
+Processname: Code.exe
+    PID: 13300
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: RuntimeBroker.exe
+    PID: 13308
+    CPU: 0.00%
+    Memory: 0.24 %
+Processname: LockApp.exe
+    PID: 13320
+    CPU: 0.00%
+    Memory: 0.45 %
+Processname: FMAPP.exe
+    PID: 13728
+    CPU: 0.00%
+    Memory: 0.09 %
+Processname: svchost.exe
+    PID: 13752
+    CPU: 0.00%
+    Memory: 0.10 %
+Processname: python.exe
+    PID: 13920
+    CPU: 0.00%
+    Memory: 0.12 %
+Processname: firefox.exe
+    PID: 14856
+    CPU: 0.00%
+    Memory: 1.00 %
+    Connection IP: 127.0.0.1
+    Connection Port: 55537
+    Connection IP: 127.0.0.1
+    Connection Port: 55536
+Processname: svchost.exe
+    PID: 15284
+    CPU: 0.00%
+    Memory: 0.06 %
+Processname: conhost.exe
+    PID: 15288
+    CPU: 0.00%
+    Memory: 0.14 %
+Processname: svchost.exe
+    PID: 15964
+    CPU: 0.00%
+    Memory: 0.13 %
+Processname: python.exe
+    PID: 16776
+    CPU: 0.00%
+    Memory: 0.16 %
+Processname: firefox.exe
+    PID: 17108
+    CPU: 0.00%
+    Memory: 0.75 %
+    Connection IP: 127.0.0.1
+    Connection Port: 55715
+    Connection IP: 127.0.0.1
+    Connection Port: 55714
