@@ -55,5 +55,5 @@ while True:
         hc = pickle.dumps(healthcheck.get_processes())
         print(hc)
         bytes_to_send = hc
-    
+
     server_socket.sendto(bytes_to_send, addr)
